@@ -1,0 +1,56 @@
+body
+    {
+        text-align:center;
+        background-color:beige;
+    }
+
+
+
+ul
+    {
+        text-align:center;
+        font-size: large;
+        
+    }
+
+
+p
+    {
+        text-align:left;
+        font-size:larger;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
+.container 
+    {
+        box-shadow: 20px 20px lightblue;
+        text-shadow: 3px 3px seashell;
+        width: 1500px;
+        height:300px;
+        border: 3px solid;
+        padding: 10px;
+        margin: 50px;
+        text-align:left;
+        font-size: large;
+     }
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+ 
+    
+
+
